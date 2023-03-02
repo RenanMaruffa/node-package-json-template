@@ -1,0 +1,25 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "vai",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "buscaPorBrasil": "node index.js Brazil",
+    "buscaPorLetraB": "node index.js B",
+    "addPais": "node add.js",
+    "frase": "node frase.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RenanMaruffa/node-package-json-template.git"
+  },
+  "author": "Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RenanMaruffa/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/RenanMaruffa/node-package-json-template#readme"
+}
